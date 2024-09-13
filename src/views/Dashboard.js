@@ -39,10 +39,10 @@ import hombre from "hombre.png"
 import eduardo from "../assets/alumnos/Eduardo_Garcia.png"
 import jessica from "../assets/alumnos/jessicontreras.jpg"
 import jp from "../assets/alumnos/null.webp"
-import compean from "../assets/alumnos/null.webp"
-import erick from "../assets/alumnos/null.webp"
-import gustavo from "../assets/alumnos/null.webp"
-import martha from "../assets/alumnos/null.webp"
+import compean from "../assets/alumnos/CompeanMacias.jpeg"
+import erick from "../assets/alumnos/ErickMeraz.jpeg"
+import gustavo from "../assets/alumnos/GustavoHeredia.jpg"
+import martha from "../assets/alumnos/Roman.jpg"
 
 
 
