@@ -18,43 +18,43 @@
 */
 import React from "react";
 // react plugin used to create charts
+import hombre from "hombre.png";
 import { Line, Pie } from "react-chartjs-2";
-import adalid from "../assets/alumnos/Adalid Herrera Ruiz_.jpg"
-import alondra from "../assets/alumnos/Alo_Mtz.jpg"
-import arturo from "../assets/alumnos/ArturoGarcia.jpeg"
-import davila from "../assets/alumnos/dávila.jpeg"
-import castro from "../assets/alumnos/Castro.jpeg"
-import diego from "../assets/alumnos/Elizalde Barboza Diego Efren.jpeg"
-import evelyn from "../assets/alumnos/EvelynGallegos.jpg"
-import fer from "../assets/alumnos/Fernanda_Santillan.jpg"
-import haro from "../assets/alumnos/Haro.jpg"
-import hector from "../assets/alumnos/Hector.png"
-import jared from "../assets/alumnos/JaredFrias.jpg"
-import kennya from "../assets/alumnos/Kennya_prof.jpg"
-import martin from "../assets/alumnos/MartinMoreno.png"
-import moran from "../assets/alumnos/miguelmoranv.jpg"
-import uriel from "../assets/alumnos/Urielgonzalez.PNG"
-import yahir from "../assets/alumnos/YahirHernandez.jpeg"
-import hombre from "hombre.png"
-import eduardo from "../assets/alumnos/Eduardo_Garcia.png"
-import jessica from "../assets/alumnos/jessicontreras.jpg"
-import jp from "../assets/alumnos/null.webp"
-import compean from "../assets/alumnos/CompeanMacias.jpeg"
-import erick from "../assets/alumnos/ErickMeraz.jpeg"
-import gustavo from "../assets/alumnos/GustavoHeredia.jpg"
-import martha from "../assets/alumnos/Roman.jpg"
+import adalid from "../assets/alumnos/Adalid Herrera Ruiz_.jpg";
+import alondra from "../assets/alumnos/Alo_Mtz.jpg";
+import arturo from "../assets/alumnos/ArturoGarcia.jpeg";
+import castro from "../assets/alumnos/Castro.jpeg";
+import compean from "../assets/alumnos/CompeanMacias.jpeg";
+import jp from "../assets/alumnos/ContrerasVasquez.jpeg";
+import davila from "../assets/alumnos/dávila.jpeg";
+import eduardo from "../assets/alumnos/Eduardo_Garcia.png";
+import diego from "../assets/alumnos/Elizalde Diego.jpeg";
+import erick from "../assets/alumnos/ErickMeraz.jpeg";
+import evelyn from "../assets/alumnos/EvelynGallegos.jpg";
+import fer from "../assets/alumnos/Fernanda_Santillan.jpg";
+import gustavo from "../assets/alumnos/GustavoHeredia.jpg";
+import haro from "../assets/alumnos/Haro.jpg";
+import hector from "../assets/alumnos/Hector.png";
+import jared from "../assets/alumnos/JaredFrias.jpg";
+import jessica from "../assets/alumnos/jessicontreras.jpg";
+import kennya from "../assets/alumnos/Kennya_prof.jpg";
+import martin from "../assets/alumnos/MartinMoreno.png";
+import moran from "../assets/alumnos/miguelmoranv.jpg";
+import martha from "../assets/alumnos/Roman.jpg";
+import uriel from "../assets/alumnos/Urielgonzalez.PNG";
+import yahir from "../assets/alumnos/YahirHernandez.jpeg";
 
 
 
 // reactstrap components
 import {
   Card,
-  CardHeader,
   CardBody,
   CardFooter,
+  CardHeader,
   CardTitle,
-  Row,
-  Col
+  Col,
+  Row
 } from "reactstrap";
 // core components
 import {
